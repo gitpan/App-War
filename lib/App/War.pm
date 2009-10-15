@@ -4,7 +4,7 @@ use warnings FATAL => 'all';
 use Graph;
 use List::Util 'shuffle';
 
-our $VERSION = 0.03;
+our $VERSION = 0.04;
 
 =pod
 
@@ -225,7 +225,7 @@ sub _info {
 
 =head1 AUTHOR
 
-John Trammell, C<< <johntrammell <at> gmail <dot> com> >>
+John Trammell, C<< <johntrammell@gmail.com> >>
 
 =head1 BUGS
 
